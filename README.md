@@ -6,7 +6,7 @@ Programmers:
 |Name|ID|
 |-|----------|
 |Zunaira Amjad|(23k-0013)|
-|Tanisha Kataris|(23k-0067)|
+|Tanisha Kataria|(23k-0067)|
 |Rayyan Merchant|(23k-0073)|
 
 Desc: Call a cab
