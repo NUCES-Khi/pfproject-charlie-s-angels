@@ -11,6 +11,10 @@
 ****
 
 # Library Management System
+## Video Demo
+https://github.com/NUCES-Khi/pfproject-charlie-s-angels/assets/142868660/dff4fa78-a8b9-4ef7-8fb0-357f0701b63c
+## Video Presentation
+https://drive.google.com/file/d/1GWZiidt-ckGEE8XvdqQ4bSrptK8Dq5Sn/view?usp=sharing
 
 ## 1. Introduction
 
@@ -113,5 +117,3 @@ The Library Management System project represents a significant step towards auto
 
 This report summarizes the Library Management System project, highlighting its objectives, features, technologies used, system design, challenges faced, future enhancements, and a conclusion.
 
-
-https://github.com/NUCES-Khi/pfproject-charlie-s-angels/assets/142868660/dff4fa78-a8b9-4ef7-8fb0-357f0701b63c
